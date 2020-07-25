@@ -1,4 +1,4 @@
-# Rekayasa-Web---Pariwisata-Gunungkidul
+# Rekayasa_Web_Pariwisata_Gunungkidul
 Untuk memenuhi Tugas Akhir Matakuliah Rekayasa Web
 
 Tim :
